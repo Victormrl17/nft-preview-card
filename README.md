@@ -26,7 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<div align="center">
+  <img src="./design/desktop-design.jpg" alt="Landing" />
+</div>
 
 ## My process
 
@@ -42,10 +44,6 @@ Users should be able to:
 Working on this project, I reinforced my knowledge of CSS Flexbox for layout design and CSS variables to manage colors and themes. I also practiced responsive design principles to ensure the component looks good on both mobile and desktop screens.
 
 Here's an example of a CSS variable for colors:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 
 ```css
 :root {
